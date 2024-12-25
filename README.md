@@ -4,6 +4,9 @@
 
 Rectangle class that models a rectangle's properties and behaviors. 
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
 The class includes methods for calculating its perimeter and area, as well as constructors and accessors for its attributes.
 
 Key Features ✨
