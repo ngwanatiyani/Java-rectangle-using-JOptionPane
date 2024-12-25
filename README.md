@@ -11,23 +11,23 @@ The class includes methods for calculating its perimeter and area, as well as co
 
 Key Features ✨
 
-*:Attributes:
+*:Attributes:*
 
 length: Represents the length of the rectangle.
 breadth: Represents the breadth of the rectangle.
 
-*:Constructors:
+*:Constructors:*
 Default Constructor: Initializes length and breadth to 0.
 Parameterized Constructor: Accepts two arguments to set the length and breadth.
 
-*:Accessors:
+*:Accessors:*
 Getters and Setters: Methods to retrieve and update the values of length and breadth.
 
-*:_Calculations_:
+*:_Calculations_:*
 Perimeter Method: Calculates and returns the perimeter of the rectangle.
 Area Method: Calculates and returns the area of the rectangle.
 
-*User Interaction:
+*User Interaction:*
 
 A separate class with a main method uses the JOptionPane class to:
 
